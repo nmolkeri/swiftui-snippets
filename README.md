@@ -1,6 +1,6 @@
 # swiftui-snippets
 
-RadialGradient(gradient: Gradient(colors: [.red, .blue]), center: .center, startRadius: 20, endRadius: 200)
+`RadialGradient(gradient: Gradient(colors: [.red, .blue]), center: .center, startRadius: 20, endRadius: 200)`
 
 ![image](https://github.com/nmolkeri/swiftui-snippets/assets/10701840/8ee06c80-9f77-41c3-8ae7-d20052d837b2)
 
